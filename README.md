@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/wolfie-09/social-proof-section)
-- Live Site URL: [Netlify Deployed Site]()
+- Live Site URL: [Netlify Deployed Site](https://app.netlify.com/sites/gallant-poincare-3c9d90/overview)
 
 ## My process
 
